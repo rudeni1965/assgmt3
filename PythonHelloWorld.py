@@ -1,3 +1,5 @@
-a=float(input("Unesite decimalni prvi broj: "))
-b=float(input("Unesite drugi decimalni broj: "))
-
+i=0
+y=1
+while(i<500):
+    print("Hello World")
+    i=i+1
